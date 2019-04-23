@@ -1,0 +1,5 @@
+https://www.google.com
+https://news.ycombinator.com/
+https://xkcd.com/
+https://slashdot.org/
+http://scanme.nmap.org/
