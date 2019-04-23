@@ -17,3 +17,4 @@ Run the script
 ```
 $ sh statusChecker.sh
 ```
+A file with the results will be outputted
